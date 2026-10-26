@@ -1,0 +1,9 @@
+# clasp project binding (contains your script ID)
+.clasp.json
+.claspignore
+
+node_modules/
+
+# OS junk
+.DS_Store
+Thumbs.db
